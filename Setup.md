@@ -17,3 +17,6 @@ source venv/bin/activate
 ```sh
 pip install -r requirements.txt
 ```
+
+## 3. Inicialize as variaveis de ambiente:
+Crie um arquivo `.env` com base no exemplo fornescido em `.env.example`

@@ -41,3 +41,9 @@ site:crapi.apisec.ai (intitle:"dashboard" OR intitle:"admin" OR inurl:health OR 
 ---
 
 ### Item 1.2
+Um script python utilizando a biblioteca shodan pode ser encontrado em `/Exercicio_1/shodan_inspect.py`
+
+---
+
+### Item 1.3
+A consolidação não pode ser feita pos não existe dominio para ser analisado. Nenhumas das duas tecnicas funciona com crAPI rodando localmente.
