@@ -20,3 +20,10 @@ pip install -r requirements.txt
 
 ## 3. Inicialize as variaveis de ambiente:
 Crie um arquivo `.env` com base no exemplo fornescido em `.env.example`
+
+## 4. Instale as ferramentas (linux):
+execute:
+```sh
+sudo apt update &&
+sudo apt install nmap gobuster
+```

@@ -1,0 +1,4 @@
+/community           [36m (Status: 301)[0m [Size: 175][34m [--> http://127.0.0.1/community/][0m
+/identity            [36m (Status: 301)[0m [Size: 175][34m [--> http://127.0.0.1/identity/][0m
+/images              [36m (Status: 301)[0m [Size: 175][34m [--> http://127.0.0.1/images/][0m
+/workshop            [36m (Status: 301)[0m [Size: 175][34m [--> http://127.0.0.1/workshop/][0m
