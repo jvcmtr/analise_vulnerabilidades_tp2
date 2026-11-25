@@ -1,0 +1,19 @@
+# Guia para o setup do repositorio
+
+### 0. Clone e acesse o repositorio:
+```sh
+git clone https://github.com/jvcmtr/agentes_ia_tp3.git
+cd agentes_ia_tp3
+```
+
+## 1. Crie e acesse o ambiente virtual:
+Crie o ambiente (linux):
+```sh
+python3 -m venv venv
+source venv/bin/activate
+```
+
+## 2. Instale as dependencias:
+```sh
+pip install -r requirements.txt
+```
