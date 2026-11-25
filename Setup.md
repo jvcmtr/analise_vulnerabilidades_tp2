@@ -2,8 +2,8 @@
 
 ### 0. Clone e acesse o repositorio:
 ```sh
-git clone https://github.com/jvcmtr/agentes_ia_tp3.git
-cd agentes_ia_tp3
+git clone https://github.com/jvcmtr/analise_vulnerabilidades_tp2.git
+cd analise_vulnerabilidades_tp2
 ```
 
 ## 1. Crie e acesse o ambiente virtual:
